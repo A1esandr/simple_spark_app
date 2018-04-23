@@ -2,14 +2,14 @@
 
 Локальное использование:
 
-# Сборка пакета 
+### Сборка пакета 
 
-mvn package
+```mvn package```
 
 
-# Запуск приложения 
+### Запуск приложения 
 
-PATH_TO_SPARK/bin/spark-submit --class "SimpleApp" --master local[4] target/simple_spark_app-1.0.jar FLAG LOGFILE APP_LOADED REGISTERED
+```PATH_TO_SPARK/bin/spark-submit --class "SimpleApp" --master local[4] target/simple_spark_app-1.0.jar FLAG LOGFILE APP_LOADED REGISTERED```
 
 FLAG - может иметь 2 значения:
 
@@ -25,7 +25,7 @@ APP_LOADED - events/app_loaded/*.parquet
 
 REGISTERED - events/registered/*.parquet
 
-# Примеры
+### Примеры
 
 Пример запуска загрузки данных (запись загруженных данных будет происходить в дефолтные папки):
 
