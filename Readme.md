@@ -28,7 +28,7 @@ REGISTERED - events/registered/*.parquet
 #Примеры
 Пример запуска загрузки данных (запись загруженных данных будет происходить в дефолтные папки):
 
-'''/usr/local/spark/bin/spark-submit --class "SimpleApp" --master local[4] target/simple_spark_app-1.0.jar -file /home/alex/events.json'''
+```/usr/local/spark/bin/spark-submit --class "SimpleApp" --master local[4] target/simple_spark_app-1.0.jar -file /home/alex/events.json```
 
 Пример запуска загрузки данных с указанием пути записи данных:
 
