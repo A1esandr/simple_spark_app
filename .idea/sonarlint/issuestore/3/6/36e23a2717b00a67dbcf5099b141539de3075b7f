@@ -1,30 +1,0 @@
-
-esquid:UselessImportCheck"<Remove this unused import 'org.apache.spark.sql.RowFactory'.(Ã÷éâ8‚•ƒï­,
-^squid:S1854"BRemove this useless assignment to local variable "registeredFile".(à•8©ãŠğ­,
-bsquid:S1192"FDefine a constant instead of duplicating this literal "email" 6 times.(ÈñŸ—8›åï­,
-Tsquid:S1481"3Remove this unused "registeredFile" local variable.(‹øÜÄûÿÿÿÿ8ïÜƒğ­,
-Ysquid:UselessImportCheck"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ë‰Ëï­,
-bsquid:S1854"ARemove this useless assignment to local variable "appLoadedFile".(†ï€üşÿÿÿÿ8©ãŠğ­,
-csquid:S1854"BRemove this useless assignment to local variable "registeredFile".(èıÁüÿÿÿÿ8­áˆğ­,
-Ysquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ë‰Ëï­,
-]squid:S1854"ARemove this useless assignment to local variable "appLoadedFile".(‰¢í8İÕ€ğ­,
-Nsquid:S1481"2Remove this unused "appLoadedFile" local variable.(‰¢í8İÕ€ğ­,
-lsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(øŠ¤øÿÿÿÿ8œòï­,
-csquid:S1854"BRemove this useless assignment to local variable "registeredFile".(‹øÜÄûÿÿÿÿ8ïÜƒğ­,
-gsquid:UselessImportCheck">Remove this unused import 'org.apache.spark.api.java.JavaRDD'.(¼¦‘ 8‚•ƒï­,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(Ûá³üÿÿÿÿ8—ıÊí­,
-isquid:S1192"HDefine a constant instead of duplicating this literal "timeTmp" 4 times.(âßäçûÿÿÿÿ8›åï­,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(¿‡Ğ×úÿÿÿÿ8î¿î­,
-8squid:S1220""Move this file to a named package.8º·¶¿­,
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(Œª£¾8şÀ€ì­,
-Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(Å¾Ç¥üÿÿÿÿ8õÆóí­,
-]squid:S1854"ARemove this useless assignment to local variable "appLoadedFile".(Ûıåë8¢¯ˆğ­,
-qsquid:UselessImportCheck"HRemove this unused import 'org.apache.spark.api.java.function.Function'.(Û¢“²8‚•ƒï­,
-nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Çµí‘8¢¯ˆğ­,
-psquid:UselessImportCheck"BRemove this unused import 'org.apache.spark.sql.types.StructType'.(Èå’¡øÿÿÿÿ8‚•ƒï­,
-qsquid:UselessImportCheck"CRemove this unused import 'org.apache.spark.sql.types.StructField'.(ñÑ‡Çùÿÿÿÿ8‚•ƒï­,
-Fsquid:S00108")Either remove or fill this block of code.(¡ŸÉõ8÷áï­,
